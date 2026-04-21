@@ -13,6 +13,6 @@
       </stop>
     </linearGradient>
   </defs>
-  <text x="50" y="60" font-size="40" fill="url(#gradient)">- I’m currently working on Web application andlearning software engineer.</text>
+  <text x="50" y="60" font-size="40" fill="url(#gradient)">- I’m currently working on Web application and learning software engineer.</text>
 </svg>
 
