@@ -1,34 +1,21 @@
-<div align="center" style="border: 2px solid #444; padding: 10px; border-radius: 10px;">
-  <!-- Animated Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsarkan-Desalegn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsarkan-Desalegn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+# 💫 About Me:
+HI THERE, 👋 I am Tsarkan<br>I am software engineer student and full stack developer. I love working with<br>HTML, CSS, JavaScript to build interactive web application.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TsarkanDesalegn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tsarkan-Desalegn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsarkandesalegn582@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tsarkan-Desalegn&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Tsarkan-Desalegn&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tsarkan-Desalegn&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Tsarkan-Desalegn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center" style="border: 2px solid #444; padding: 10px; border-radius: 10px;">
-  <!-- Visitor Badge with Pulse Animation -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tsarkan-Desalegn.Tsarkan-Desalegn&" />
-  
-  <!-- Animated SVG underline -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/animated-line.svg" height="20" />
-</div>
-
----
-
-<div align="center" style="border: 2px solid #444; padding: 10px; border-radius: 10px;">
-  <!-- Tech Logos with Hover Animation -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-</div>
-
----
-
-<div align="center" style="border: 2px solid #444; padding: 10px; border-radius: 10px;">
-  <!-- Social Badges with Animated Glow -->
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
