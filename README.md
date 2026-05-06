@@ -1,5 +1,8 @@
 # 💫 About Me:
-HI THERE, 👋 I am Tsarkan<br>I am software engineer student and full stack developer. I love working with<br>HTML, CSS, JavaScript to build interactive web application.
+HI THERE, 👋 My name is Tsarkan Desalegn. I am a software engineering student and Data 
+Science Fellow. I specialize in building responsive websites using HTML, 
+CSS, and JavaScript, while also mastering Python and SQL. My goal is to become an 
+AI engineer and use IoT technology to reduce agricultural grain loss. 
 
 
 ## 🌐 Socials:
