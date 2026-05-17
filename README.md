@@ -1,7 +1,6 @@
 # 💫 About Me:
 HI THERE, 👋
-<br>My name is Tsarkan Desalegn. I am a software engineering student and Data 
-Science Fellow. 
+<br>My name is Tsarkan Desalegn. I am a software engineering student.
 
 
 ## 🌐 Socials:
