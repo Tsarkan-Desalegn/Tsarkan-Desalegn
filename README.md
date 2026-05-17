@@ -1,9 +1,7 @@
 # 💫 About Me:
 HI THERE, 👋
 <br>My name is Tsarkan Desalegn. I am a software engineering student and Data 
-Science Fellow. I specialize in building responsive websites using HTML, 
-CSS, and JavaScript, while also mastering Python and SQL. My goal is to become an 
-AI engineer and use IoT technology to reduce agricultural grain loss. 
+Science Fellow. 
 
 
 ## 🌐 Socials:
